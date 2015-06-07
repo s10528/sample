@@ -13,6 +13,8 @@ public class a {
 		//System.out.println("坂本");
 		//System.out.println("足立");
 		//System.out.println("木村");
+
+		System.out.println("更新ρ(-ω- )");
 	}
 
 }
