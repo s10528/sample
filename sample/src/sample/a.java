@@ -18,6 +18,7 @@ public class a {
 
 		System.out.println("衝突する！！");
 		System.out.println("ノートＰＣ衝突する！");
+		System.out.println("ノートＰＣ衝突する！さらに追加");
 	}
 
 }
