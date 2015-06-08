@@ -14,11 +14,18 @@ public class a {
 		System.out.println("足立");
 		System.out.println("木村");
 		System.out.println("ほかの人からのプログラム！");
+
+		//System.out.println("更新書き換えた（デスクトップPC）"); 削除！！！！
+
 		System.out.println("更新を書き換えちゃったり（ノートＰＣ）");
 
+
 		System.out.println("衝突する！！");
+
+		System.out.println("デスクトップPC衝突！！");
 		System.out.println("ノートＰＣ衝突する！");
-		System.out.println("ノートＰＣ衝突する！さらに追加");
+		System.out.println("ノートＰＣ衝突する！さらに追加");	//両方採用！！
+
 	}
 
 }
