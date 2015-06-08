@@ -15,6 +15,8 @@ public class a {
 		//System.out.println("木村");
 
 		System.out.println("更新ρ(-ω- )");
+		
+		System.out.println("衝突する！！");
 	}
 
 }
