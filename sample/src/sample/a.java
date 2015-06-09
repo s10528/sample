@@ -15,6 +15,10 @@ public class a {
 		System.out.println("木村");
 		System.out.println("ほかの人からのプログラム！");
 
+		System.out.println("更新ρ(-ω- )");
+		System.out.println("坂本PC参上");
+
+
 		//System.out.println("更新書き換えた（デスクトップPC）"); 削除！！！！
 
 		System.out.println("更新を書き換えちゃったり（ノートＰＣ）");
