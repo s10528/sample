@@ -1,0 +1,14 @@
+insert into employee (emp_no,emp_name,password)
+values(0001,'ç‚ñ{',12345678);
+
+insert into employee (emp_no,emp_name,password)
+values(0002,'ë´óß',11111111);
+
+insert into employee (emp_no,emp_name,password)
+values(0003,'ñÿë∫',22222222);
+
+insert into employee (emp_no,emp_name,password)
+values(0004,'êX',33333333);
+
+insert into employee (emp_no,emp_name,password)
+values(0006,'ÇÕÇÒÇæ',34793828);
