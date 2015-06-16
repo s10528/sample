@@ -21,7 +21,7 @@ public class a {
 
 		//System.out.println("更新書き換えた（デスクトップPC）"); 削除！！！！
 
-		System.out.println("fdgsmlgmちゃったり（ノートＰＣ）");
+		System.out.println("坂本PC再びｄふぃじょそ");
 
 
 		System.out.println("衝突する！！");
